@@ -1,3 +1,5 @@
+Also check out the GCVF docs 
+
 Indie.vc is currently on its third version. We’ve released all versions of our terms sheets to be used by other investors.
 
 You can find our current terms below or look at the past terms in this repo.
